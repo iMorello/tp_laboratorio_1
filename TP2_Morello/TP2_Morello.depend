@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1493317838 source:c:\users\chona\desktop\tp2_morello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1493314663 c:\users\chona\desktop\tp2_morello\funciones.h
+
+1492732739 source:c:\users\chona\desktop\tp2_morellosin funcionar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1492732507 c:\users\chona\desktop\tp2_morellosin funcionar\funciones.h
+
+1492723722 source:c:\users\chona\desktop\tp2_morellosin funcionar\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1493314663 source:c:\users\chona\desktop\tp2_morello\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1493253226 source:c:\users\alumno\desktop\tp2_morello\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1493300518 c:\users\alumno\desktop\tp2_morello\funciones.h
+
+1493300398 source:c:\users\alumno\desktop\tp2_morello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1493314663 source:c:\users\chona\desktop\programación\tp2_morello\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1493314663 c:\users\chona\desktop\programación\tp2_morello\funciones.h
+
+1493430685 source:c:\users\chona\desktop\programación\tp2_morello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
